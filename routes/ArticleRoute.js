@@ -44,5 +44,6 @@ router.get('/:base/:item', async(req, res) => {
     }
 });
 
+console.log("Meu novo commit")
 
 module.exports = router;
